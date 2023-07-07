@@ -1,0 +1,562 @@
+<!doctype html>
+<html lang="en" data-bs-theme="dark">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Filter test</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+        <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Z6UyKby3cBFCwR-WTW0BFLFm3jjMTtWm-SvXBmKYD2Keuvdq9TvKdK2-Nh1SUjwo23O_UYFySe2S5LJfVknuQBHAPBzZZ2DrduZN85ceeGVk3fAIsr4qExHsFkyJFXBRDyxQpjNOIaLvmZob0_Bkq82yGHepjwfN6ZtsxJi1d0JK_LGRXYhAZu1ZYzhaq2atx-E71Sq-OgFl575cmV2rcK6djKwz4b6gTUQ_OfwAvl59JMRlhd0dIzrz8pPQNxp9TgCvrYLX4iw1yPKpu4k-_Zo7Q-BVjDyyBie6Xkg8YQDaeYEz4OyNfVD354TOlWFwdpH27VRVGutAVqV3qvPn8cozkbiCulvZsaDOvKmC-vMFXRDm-VqOErsHNovLcWC6n2j-_L8DEU_J9FumxvgRxoV5E_18YnwQhzBHZgG-PZyRcu0u1mbpunehDCl1fuBjB4g8P3nVhIT9OZgv_TgdoMKYF1NddBGbcRJZCVBu3dGa_zKKX-FCORavRJGFibpyY8Q2lRZJLrPdn4XTe_EMHojFIVvp-c8_XHdvYB0keN66BrtkbSyrvajX9y3Q1pPxYqXcGOfIGrslo_lwyLi7n_jG05W_kG2xIfGsWuFmwFmUX7w3BZN8_HkWOW3IJ2Ft11YaUb4b_pc5XbQSE-w4yJO_hrn0TZWoQfPgeTXj5MJV5i9R6AATHmWXz4479G7mcv1SmY5eCIsGXvKgNwW_XTgnedBeqWjJ4DlEJO8LSXou99em7zLt8IyLyxX7Ubw872FpYkC1V0NlLrCmRAIzotO6jw_dAp6opsQyPsP4VqQuv9IEMq5Sp7qM7kxk4cjqJrTV6l9kIvjl0bblmn0qnZ1SeiwbJiCjQNc0cXlRIHjJ8a2ppPDeECq7WyqBZ9PJQIpDfKBxtvoSOroYmxTXuMf1kU6u89naPl-Ereb0CB62z1iyOZblUw79WEbNfAvghHrQzufOyeLq0KyoLPmTDrmrTuagzT4NFYXjFYqrRCYHP7zc-OVfNZpz5dmdPx8wN0gu_WVJLUuXuoBaPDkP78C_bD7O2iHQ_lgExsyAWH0Yb9hUPia20GKQhmiJZWWgfaWH3lrBg482xYlEV_RhqKtpVhmiKsIxXMkkzUdeKAVwqIjN4bfGILuzH2R9q1UM1gU0HdneQfyKrZOv2P8W9y9WWl3oMrIYdUzKsA4gk9PM0-4LLYPfStf7DqbppWjA6N5_HeKKGdIyITxIH_vKskgITFHaTHQZl6KgODjrSZ2Mn9lK4ugTNA2y7x7tqjgGDiiRdqskIb6fwkUw08CJhFNnddhvpdYF52OC01D0gwa5fRJPWYl_zMJQJAXgbhsfTuMeCoJlTdgeVXmfB9ZsDkNrWsPqo83ac1fN8kNVaMc-419vS4rL8IyEp2zvExdLpvN00sUUAn62BbRVXDoUb54NPihenHboyEqynbojFu0-MRMaCpk74jNXwx-ofX0MhoV2AY_ncbZ2IWDf8V38KKI36KmStl61zQ8UPCvzHMrfEB0HA_teTnVoznKYXAn9AA1i-be8U6jhiy1YjcfqFeCGcwOC97fX72VL8jxDfu0ohR05K-b-i9UOBW1LOe6sfyO40TvRsVRMYUxRehYpG1WEPoW-30xUKjKbQTI_4WlRcG7eOGp9bqhrLzGtr25qGOCY8OAFBZaqtjqT5L0CyRT0gBjejy7wsVKzEtPTv61aXBNi9-x_5jTKLkMJJCHDfcVQN8rU2V6bWWA3YQHp7IRZ8VOaLXF8U1EZPfxB0rP1kF8ACoVm9q05YO7e6N4U9_ZFsziByyHrPJhMllB9LB2tUqZzvpee7JjyvqvfiLzbXJLD5l_dLbBB24dj_OPRPlAPaA18YcvIn06BqvlsG0xiWshyZs5iwEHVqwiLhbgHiBbmWjAdkIPBnFClCpXNG5bNRQOVS-Owy7r5aNMofH-P8JVTf-z6we23F2k6EAk" nonce="b56522fa757de65645f5566cca141ddc" charset="UTF-8"></script><style>
+        .q0,.q0 a {color:#9d9d9d!important;}
+        .q1,.q1 a {color:#ffffff!important;}
+        .q2,.q2 a {color:#1eff00!important;}
+        .q3,.q3 a {color:#0070dd!important;}
+        .q4,.q4 a {color:#a335ee!important;}
+        .q5,.q5 a {color:#ff8000!important;}
+        .q6,.q6 a {color:#e5cc80!important;}
+        </style>
+    </head>
+    <body>
+        <div class="d-flex flex-nowrap p-3">
+            <div class="d-flex flex-column flex-shrink-0">
+                <div id="navbar" class="offcanvas-lg offcanvas-start w-auto" tabindex="-1">
+                    <div class="offcanvas-body flex-column">
+                        <div class="bg-body-tertiary border border-light-subtle rounded-3 p-2 me-4">
+                            <div class="text-center">
+                                <span class="fs-4 fw-medium">DB Vanilla+</span>
+                            </div>
+                            <hr class="m-2">
+                            <a class="text-decoration-none ms-2" href="/">News</a>
+                            <hr class="m-2">
+                            <a class="text-decoration-none ms-2" href="/equip">Equipment</a>
+                        </div>
+                        <div class="border border-light-subtle rounded-3 p-2 mt-4 me-4 px-4">
+                            <label class="form-label" for="data-s">Item Slots</label>
+                            <select id="data-s" class="form-select form-select-sm">
+                                <option value="s01" selected>Head</option>
+                                <option value="s02">Neck</option>
+                                <option value="s03">Shoulders</option>
+                                <option value="s04">Back</option>
+                                <option value="s05">Chest</option>
+                                <option value="s06">Shirt</option>
+                                <option value="s07">Tabard</option>
+                                <option value="s08">Wrist</option>
+                                <option value="s09">Hands</option>
+                                <option value="s10">Waist</option>
+                                <option value="s11">Legs</option>
+                                <option value="s12">Feet</option>
+                                <option value="s13">Finger</option>
+                                <option value="s14">Trinket</option>
+                                <option value="s15">Two-Hand</option>
+                                <option value="s16">Main Hand</option>
+                                <option value="s17">Off Hand</option>
+                                <option value="s18">Relic</option>
+                                <option value="s19">Ranged</option>
+                                <option value="s20">Ammo</option>
+                                <option value="s21">Bag</option>
+                            </select>
+                        
+                            <hr class="mx-0 my-3">
+                        
+                            <label class="form-label">Quality / Rarity</label>
+                            <div class="form-check">
+                                <label class="q0 form-check-label" for="q0">Poor</label>
+                                <input id="q0" class="form-check-input" type="checkbox" value="">
+                            </div>
+                            <div class="form-check">
+                                <label class="q1 form-check-label" for="q1">Common</label>
+                                <input id="q1" class="form-check-input" type="checkbox" value="">
+                            </div>
+                            <div class="form-check">
+                                <label class="q2 form-check-label" for="q2">Uncommon</label>
+                                <input id="q2" class="form-check-input" type="checkbox" value="">
+                            </div>
+                            <div class="form-check">
+                                <label class="q3 form-check-label" for="q3">Rare</label>
+                                <input id="q3" class="form-check-input" type="checkbox" value="">
+                            </div>
+                            <div class="form-check">
+                                <label class="q4 form-check-label" for="q4">Epic</label>
+                                <input id="q4" class="form-check-input" type="checkbox" value="">
+                            </div>
+                            <div class="form-check">
+                                <label class="q5 form-check-label" for="q5">Legendary</label>
+                                <input id="q5" class="form-check-input" type="checkbox" value="">
+                            </div>
+                            <div class="form-check">
+                                <label class="q6 form-check-label" for="q6">Artifact</label>
+                                <input id="q6" class="form-check-input" type="checkbox" value="">
+                            </div>
+                        
+                            <hr class="mx-0 my-3">
+                        
+                            <label class="form-label">Equippable Items</label>
+
+                            <div id="s01" data-t>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s01t1">Cloth</label>
+                                    <input id="s01t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s01t2">Leather</label>
+                                    <input id="s01t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s01t3">Mail</label>
+                                    <input id="s01t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s01t4">Plate</label>
+                                    <input id="s01t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s01t5">Miscellaneous</label>
+                                    <input id="s01t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s01t6">Quest</label>
+                                    <input id="s01t6" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+                        
+                            <div id="s02" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s02t1">Miscellaneous</label>
+                                    <input id="s02t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s02t2">Junk</label>
+                                    <input id="s02t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s02t3">Quest</label>
+                                    <input id="s02t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+                        
+                            <div id="s03" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s03t1">Cloth</label>
+                                    <input id="s03t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s03t2">Leather</label>
+                                    <input id="s03t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s03t3">Mail</label>
+                                    <input id="s03t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s03t4">Plate</label>
+                                    <input id="s03t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s04" data-t hidden>
+                            </div>
+
+                            <div id="s05" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s05t1">Cloth</label>
+                                    <input id="s05t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s05t2">Leather</label>
+                                    <input id="s05t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s05t3">Mail</label>
+                                    <input id="s05t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s05t4">Plate</label>
+                                    <input id="s05t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s05t5">Miscellaneous</label>
+                                    <input id="s05t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s06" data-t hidden>
+                            </div>
+
+                            <div id="s07" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s07t1">Miscellaneous</label>
+                                    <input id="s07t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s07t2">Consumable</label>
+                                    <input id="s07t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s08" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s08t1">Cloth</label>
+                                    <input id="s08t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s08t2">Leather</label>
+                                    <input id="s08t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s08t3">Mail</label>
+                                    <input id="s08t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s08t4">Plate</label>
+                                    <input id="s08t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s09" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s09t1">Cloth</label>
+                                    <input id="s09t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s09t2">Leather</label>
+                                    <input id="s09t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s09t3">Mail</label>
+                                    <input id="s09t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s09t4">Plate</label>
+                                    <input id="s09t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s10" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s10t1">Cloth</label>
+                                    <input id="s10t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s10t2">Leather</label>
+                                    <input id="s10t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s10t3">Mail</label>
+                                    <input id="s10t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s10t4">Plate</label>
+                                    <input id="s10t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s10t5">Consumable</label>
+                                    <input id="s10t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s11" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s11t1">Cloth</label>
+                                    <input id="s11t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s11t2">Leather</label>
+                                    <input id="s11t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s11t3">Mail</label>
+                                    <input id="s11t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s11t4">Plate</label>
+                                    <input id="s11t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s11t5">Miscellaneous</label>
+                                    <input id="s11t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s12" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s12t1">Cloth</label>
+                                    <input id="s12t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s12t2">Leather</label>
+                                    <input id="s12t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s12t3">Mail</label>
+                                    <input id="s12t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s12t4">Plate</label>
+                                    <input id="s12t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s12t5">Miscellaneous</label>
+                                    <input id="s12t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s13" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s13t1">Miscellaneous</label>
+                                    <input id="s13t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s13t2">Junk</label>
+                                    <input id="s13t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s14" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s14t1">Miscellaneous</label>
+                                    <input id="s14t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s14t2">Trade Goods</label>
+                                    <input id="s14t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s14t3">Devices</label>
+                                    <input id="s14t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s14t4">Quest</label>
+                                    <input id="s14t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s15" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s15t1">Two-Handed Axes</label>
+                                    <input id="s15t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s15t2">Two-Handed Maces</label>
+                                    <input id="s15t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s15t3">Two-Handed Swords</label>
+                                    <input id="s15t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s15t4">Polearms</label>
+                                    <input id="s15t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s15t5">Staves</label>
+                                    <input id="s15t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s15t6">Fishing Pole</label>
+                                    <input id="s15t6" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s15t7">Miscellaneous</label>
+                                    <input id="s15t7" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s16" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s16t1">One-Handed Axes</label>
+                                    <input id="s16t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s16t2">One-Handed Maces</label>
+                                    <input id="s16t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s16t3">One-Handed Swords</label>
+                                    <input id="s16t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s16t4">Daggers</label>
+                                    <input id="s16t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s16t5">Fist Weapons</label>
+                                    <input id="s16t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s16t6">Miscellaneous</label>
+                                    <input id="s16t6" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s17" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t1">One-Handed Axes</label>
+                                    <input id="s17t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t2">One-Handed Maces</label>
+                                    <input id="s17t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t3">One-Handed Swords</label>
+                                    <input id="s17t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t4">Daggers</label>
+                                    <input id="s17t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t5">Fist Weapons</label>
+                                    <input id="s17t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t6">Miscellaneous</label>
+                                    <input id="s17t6" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t7">Miscellaneous (non weapon)</label>
+                                    <input id="s17t7" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t8">Junk (non weapon)</label>
+                                    <input id="s17t8" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t9">Quest (non weapon)</label>
+                                    <input id="s17t9" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s17t10">Shields (non weapon)</label>
+                                    <input id="s17t10" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s18" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s18t1">Librams</label>
+                                    <input id="s18t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s18t2">Idols</label>
+                                    <input id="s18t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s18t3">Totems</label>
+                                    <input id="s18t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s19" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s19t1">Crossbows</label>
+                                    <input id="s19t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s19t2">Bows</label>
+                                    <input id="s19t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s19t3">Guns</label>
+                                    <input id="s19t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s19t4">Wands</label>
+                                    <input id="s19t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s19t5">Thrown</label>
+                                    <input id="s19t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s19t6">Miscellaneous</label>
+                                    <input id="s19t6" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s19t7">Quest</label>
+                                    <input id="s19t7" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s20" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s20t1">Arrow</label>
+                                    <input id="s20t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s20t2">Bullet</label>
+                                    <input id="s20t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+                            <div id="s21" data-t hidden>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s21t1">Quiver - Quiver</label>
+                                    <input id="s21t1" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s21t2">Quiver - Ammo Pouch</label>
+                                    <input id="s21t2" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s21t3">Container - Bag</label>
+                                    <input id="s21t3" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s21t4">Container - Soul Bag</label>
+                                    <input id="s21t4" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s21t5">Container - Herb Bag</label>
+                                    <input id="s21t5" class="form-check-input" type="checkbox" value="">
+                                </div>
+                                <div class="form-check">
+                                    <label class="form-check-label" for="s21t6">Container - Enchanting Bag</label>
+                                    <input id="s21t6" class="form-check-input" type="checkbox" value="">
+                                </div>
+                            </div>
+
+
+
+
+
+                            <script>
+document.querySelector('#data-s')?.addEventListener('change', function() {
+    document.querySelectorAll('[data-t]')?.forEach((userItem) => {
+        userItem.hidden = true;
+    });
+    document.querySelector('#' + this.value).hidden = false;
+});
+                            </script>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex flex-column flex-grow-1">
+                <div class="d-flex justify-content-between text-center bg-body-tertiary border border-light-subtle rounded-3 p-2">
+                    <div><span class="bi-layout-text-sidebar-reverse fs-4 fw-medium d-lg-none" data-bs-toggle="offcanvas" data-bs-target="#navbar"></span></div>
+                    <div><span class="fs-4 fw-medium">Equipment</span></div>
+                    <div></div>
+                </div>
+                <div class="mt-3">
+                    <table class="table table-sm table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Lvl req.</th>
+                                <th>Type</th>
+                                <th>Subtype</th>
+                                <th>equip</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
+    </body>
+</html>
